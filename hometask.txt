@@ -1,0 +1,35 @@
+Отличия между ветками master и demo:
+
+1. Отличие в README:
+    master:
+        Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+    demo:
+        Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
+
+2. Отличия в human.txt:
+    master:
+        =====
+     ===========
+      ==     ==
+      == = = ==
+       =  =  =
+        = = = 
+     == ===== == 
+    =  =  0  =  =
+    =  =  0  =  =
+     == = 0 = ==
+        = = =
+        = = =
+      ==== ====
+     ===== =====
+    
+    demo:
+       =  =  =
+        = = = 
+     == ===== == 
+    =  =  0  =  =
+    =  =  0  =  =
+     == = 0 = ==
+        = = =
+        = = =
+      ==== ====
